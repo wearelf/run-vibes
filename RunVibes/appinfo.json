@@ -1,0 +1,19 @@
+{
+  "uuid": "fc346520-dc44-4a88-a28c-ac13f8438d22",
+  "shortName": "RunVibes",
+  "longName": "RunVibes",
+  "companyName": "WearHacksTO",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
